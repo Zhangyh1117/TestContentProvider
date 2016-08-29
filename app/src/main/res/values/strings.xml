@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestContentProvider</string>
+    <string name="insert_text">insert</string>
+    <string name="delete_text">delete</string>
+    <string name="update_text">update</string>
+    <string name="query_text">query</string>
+</resources>
